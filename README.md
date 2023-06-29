@@ -10,6 +10,7 @@ Termux:
       pkg install git
       git clone https://github.com/xcoder-ksb/maiil_clone/
       cd maiil_clone/
+      git pull
       python v2.py
       
       
