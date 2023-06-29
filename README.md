@@ -11,7 +11,7 @@ Termux:
       git clone https://github.com/xcoder-ksb/maiil_clone/
       cd maiil_clone/
       git pull
-      python v2.py
+      python fuck.py
       
       
 Tool is paid
