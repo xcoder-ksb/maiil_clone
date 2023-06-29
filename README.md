@@ -2,6 +2,8 @@
 # file_clone
 first go to your maill_clone dir and type:
 git pull
+
+<br>
 Termux:
 
       pkg install python3
